@@ -1,16 +1,20 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Tejas+Dhande;Java+Full+Stack+Developer;Spring+Boot+Enthusiast;Backend+Developer;Open+to+Opportunities" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Tejas+Dhande;Java+Full+Stack+Developer;Spring+Boot+Enthusiast;Backend+Developer;Open+to+Opportunities" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Tejas Dhande</h1>
 
-<img align="right" alt="Coding" width="420" src="./GITHUB_UI.png"/>
+---
+
+<img align="right" alt="Coding" width="320" src="./GITHUB_UI.png"/>
 
 ### 🚀 About Me
 
-- 🌱 Currently learning **Spring Boot**
+- 💻 Java **Full Stack Developer**
+- 🌱 Currently mastering **Spring Boot**
+- 🧠 Strong in **DSA & Problem Solving**
 - 💬 Ask me about **Java, Spring Boot, MySQL**
-- 🎯 Goal: Become a top Backend Developer
+- 🎯 Goal: Become a top Software Developer
 - 📫 Reach me at: **tejasdhande1703@gmail.com**
 - ⚡ Fun fact: **I am an Extrovert 😎**
 
@@ -19,16 +23,16 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/tejas-dhande" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+<a href="https://linkedin.com/in/tejas-dhande" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
-<a href="https://github.com/tejasdhande17" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+<a href="https://github.com/tejasdhande17" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
 
 <a href="mailto:tejasdhande1703@gmail.com">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
+<img src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
 </p>
 
@@ -53,6 +57,16 @@
 
 ---
 
+### 🚀 Featured Skills
+
+✔️ REST API Development  
+✔️ Database Design & Optimization  
+✔️ Authentication & Authorization  
+✔️ Full Stack Web Applications  
+✔️ Clean Code & OOP Principles  
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -65,11 +79,20 @@
 ### 🔥 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tejasdhande17&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tejasdhande17&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+### 🧩 Developer Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
 
 <p align="center">
-✨ Thanks for visiting my profile ✨
+✨ <b>Code • Learn • Build • Repeat</b> ✨  
+⭐ From <b>Tejas Dhande — Java Full Stack Developer</b>
 </p>
