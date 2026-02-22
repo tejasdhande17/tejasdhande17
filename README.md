@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Tejas Dhande</h1>
 
-<img align="right" alt="Coding" width="420" src="/mnt/data/3c7d7650-2216-47d4-838e-ae9edb7680c0.png"/>
+<img align="right" alt="Coding" width="420" src="./GITHUB_UI.png"/>
 
 ### 🚀 About Me
 
