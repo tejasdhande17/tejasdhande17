@@ -1,16 +1,20 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Tejas+Dhande;Java+Full+Stack+Developer;Spring+Boot+Enthusiast;Backend+Developer;Open+to+Opportunities" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Tejas+Dhande;Java+Full+Stack+Developer;Spring+Boot+Enthusiast;Backend+Developer;Open+to+Opportunities" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Tejas Dhande</h1>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+<img align="right" alt="Coding" width="400"
+src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+---
 
 ### 🚀 About Me
 
-- 🌱 Currently learning **Spring Boot & Microservices**
+- 🌱 Currently learning **Spring Boot**
+- 💻 Java **Full Stack Developer**
 - 💬 Ask me about **Java, Spring Boot, MySQL**
-- 🎯 Goal: Become a top Backend Developer
+- 🎯 Goal: Become a top Software Developer
 - 📫 Reach me at: **tejasdhande1703@gmail.com**
 - ⚡ Fun fact: **I am an Extrovert 😎**
 
@@ -20,15 +24,15 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/tejas-dhande" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="45" />
 </a>
 
 <a href="https://github.com/tejasdhande17" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+<img align="center" src="https://skillicons.dev/icons?i=github" height="45" />
 </a>
 
 <a href="mailto:tejasdhande1703@gmail.com">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="45" />
 </a>
 </p>
 
@@ -87,5 +91,6 @@
 ---
 
 <p align="center">
-✨ Thanks for visiting my profile ✨
+✨ Thanks for visiting my profile ✨  
+⭐ From <b>Tejas Dhande — Java Full Stack Developer</b>
 </p>
