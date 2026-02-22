@@ -4,11 +4,11 @@
 
 <h1 align="center">Hi 👋, I'm Tejas Dhande</h1>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+<img align="right" alt="Coding" width="420" src="/mnt/data/3c7d7650-2216-47d4-838e-ae9edb7680c0.png"/>
 
 ### 🚀 About Me
 
-- 🌱 Currently learning **Spring Boot & Microservices**
+- 🌱 Currently learning **Spring Boot**
 - 💬 Ask me about **Java, Spring Boot, MySQL**
 - 🎯 Goal: Become a top Backend Developer
 - 📫 Reach me at: **tejasdhande1703@gmail.com**
@@ -58,22 +58,6 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=tejasdhande17&show_icons=true&theme=tokyonight" height="170"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejasdhande17&theme=tokyonight" height="170"/>
-</p>
-
----
-
-### 🧠 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejasdhande17&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=tejasdhande17&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
