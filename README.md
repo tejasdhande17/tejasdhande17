@@ -6,7 +6,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="320" src="./GITHUB_UI.png"/>
+<img align="right" alt="Coding" width="250" src="./GITHUB_UI.png"/>
 
 ### 🚀 About Me
 
@@ -23,7 +23,7 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/tejas-dhande" target="_blank">
+<a href="https://www.linkedin.com/in/tejas-dhande-193ab3268/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
@@ -80,14 +80,6 @@
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=tejasdhande17&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-### 🧩 Developer Quote
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
