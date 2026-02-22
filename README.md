@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Tejas+Dhande;Java+Full+Stack+Developer;Spring+Boot+Enthusiast;Backend+Developer;Open+to+Opportunities" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Tejas+Dhande;Java+Full+Stack+Developer;Spring+Boot+Enthusiast;Backend+Developer;Open+to+Opportunities" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Tejas Dhande</h1>
@@ -8,10 +8,9 @@
 
 ### 🚀 About Me
 
-- 🌱 Currently learning **Spring Boot**
-- 💻 Java **Java Full Stack Developer**
+- 🌱 Currently learning **Spring Boot & Microservices**
 - 💬 Ask me about **Java, Spring Boot, MySQL**
-- 🎯 Goal: Become a top Software Developer
+- 🎯 Goal: Become a top Backend Developer
 - 📫 Reach me at: **tejasdhande1703@gmail.com**
 - ⚡ Fun fact: **I am an Extrovert 😎**
 
@@ -29,4 +28,64 @@
 </a>
 
 <a href="mailto:tejasdhande1703@gmail.com">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
+</a>
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
+#### 👨‍💻 Backend
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,mysql" />
+</p>
+
+#### 🎨 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
+</p>
+
+#### 🧰 Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=tejasdhande17&show_icons=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tejasdhande17&theme=tokyonight" height="170"/>
+</p>
+
+---
+
+### 🧠 Most Used Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejasdhande17&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=tejasdhande17&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+### 🔥 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tejasdhande17&theme=tokyo-night" />
+</p>
+
+---
+
+<p align="center">
+✨ Thanks for visiting my profile ✨
+</p>
